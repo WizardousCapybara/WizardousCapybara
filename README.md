@@ -55,7 +55,7 @@
         </p>
         <h2>Gallery</h2>
         <!-- Add your gallery images here with appropriate tags -->
-        <!-- Example: <img src="AHHHHH.png" alt="Image description"> -->
+        <!-- Example: <img src=".jpg" alt="Image description"> --> 
     </main>
     <footer>
         <p>Contact: sugarysweetygirl@gmail.com| 
